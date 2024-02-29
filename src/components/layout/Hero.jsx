@@ -13,7 +13,7 @@ const Hero = () => {
         <p className="my-4 text-gray-400 text-sm">
           Welcome to the ultimate pizza experience! Dive into a world where the
           dough is always hand-kneaded, the toppings are fresh off the farm, and
-          the flavors are crafted just for you. <br /> <br /> Whether you're
+          the flavors are crafted just for you. <br /> <br /> Whether you are
           craving the classic Margherita, the spicy Pepperoni, or feeling
           adventurous with our signature creations, your perfect pizza is just a
           few clicks away. With our user-friendly online ordering system, you
