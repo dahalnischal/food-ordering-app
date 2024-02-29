@@ -1,3 +1,14 @@
 @tailwind base;
 @tailwind components;
 @tailwind utilities;
+
+section.hero {
+    @apply grid;
+    grid-template-columns: 1fr 1.1fr;
+
+}
+
+.about-grid {
+    @apply grid;
+    grid-template-columns: 1.2fr 1fr;
+}
