@@ -16,7 +16,7 @@ export const HomeMenu = () => {
       </div>
       <div className="absolute w-48 h-48 -right-12 top-10 z-[-1]">
         <Image
-          src={"/sallad2.png "}
+          src={"/sallad2.png"}
           alt="Salad"
           layout="fill"
           objectFit="contain"
