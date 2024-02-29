@@ -38,10 +38,10 @@ export const About = () => {
           </p>
           <p>
             Our menu is a carefully curated selection of pizzas, each with its
-            own unique twist, ensuring there's something for everyone. Whether
-            you're a fan of the robust, spicy notes of a classic pepperoni or
-            the subtle, fresh flavors of a veggie delight, our kitchen is
-            dedicated to bringing you the best of both worlds.
+            own unique twist, ensuring there something for everyone. Whether you
+            are a fan of the robust, spicy notes of a classic pepperoni or the
+            subtle, fresh flavors of a veggie delight, our kitchen is dedicated
+            to bringing you the best of both worlds.
           </p>
           <p>
             Join us on this flavorful journey, where every pizza tells a story
